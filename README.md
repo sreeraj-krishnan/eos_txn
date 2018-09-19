@@ -1,8 +1,8 @@
 # eos_txn
 
-Testted the below change on Ubuntu 18.04
+Tested the below change on Ubuntu 18.04
 
-Prerequisites
+Prerequisites:
 Install npm, nodejs, jq
 sudo apt-get install npm
 sudo apt-get install jq  # for json parsing to display output
