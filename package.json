@@ -2,7 +2,7 @@
   "name": "nodejs-eos",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "send_transaction.js",
   "dependencies": {
     "eosjs": "^16.0.8"
   },
